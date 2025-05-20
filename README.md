@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Keerthana Muthupandi
 - 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning data science and backend
-- 💞️ I’m looking to collaborate on topics related to webdev 
-- 📫 How to reach me : mail: keerthu.7x@gmail.com
+- 🌱 I’m currently learning deep learning
+- 📫 How to reach me : mail: keerthump7@gmail.com
 - 😄 Pronouns: She/Her
 
 
